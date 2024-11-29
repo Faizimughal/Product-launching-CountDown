@@ -22,7 +22,7 @@ const weekdays = [
   "Saturday",
 ];
 let para = document.querySelector(".para");
-let futureDate = new Date(2024, 10, 30, 11, 30, 0);
+let futureDate = new Date(2024, 11, 3, 11, 30, 0);
 const year = futureDate.getFullYear();
 
 let month = futureDate.getMonth();
